@@ -1,4 +1,4 @@
-M-Pesa Daraja API Integration (Spring Boot)
+txM-Pesa Daraja API Integration (Spring Boot)
 
 📌 Overview
 
@@ -31,7 +31,7 @@ The main goal was to understand how M-Pesa APIs work and how they can be connect
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/WIKNON JR/DARAJA API.git
 
 2. Add your credentials
 
